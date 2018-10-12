@@ -1,0 +1,22 @@
+#c_wrapper
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+#c_input
+{
+    flex: 1;
+}
+
+#c_out
+{
+    width: 100%;
+    padding: 10px;
+    padding-bottom: 55px;
+}

@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab|Source+Serif+Pro');
+
+.ui-autocomplete
+{
+    box-shadow: 0 0 5px #0000003f;
+    border-radius: 2px;
+}
+
+.ui-autocomplete.ui-widget-content
+{
+    border: none;
+}
+
+.ui-autocomplete li
+{
+    font-family: 'Roboto', sans-serif;
+}
+
+.ui-autocomplete li:hover
+{
+
+}
+
+.ui-menu-item .ui-menu-item-wrapper.ui-state-active {
+    background: #bbdefb;
+    border: none;
+    color: #333;
+    margin: 0;
+} 
